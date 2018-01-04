@@ -1,5 +1,5 @@
 
-These datasets and R scripts were used to perform the analysis related with the manuscript "Systematic reviews of best methodological quality achieve low altmetrics when their abstracts are non-structured, low readable, and of poor reporting completeness."
+These datasets and R scripts were used to perform the analysis included in the manuscript "Systematic reviews of best methodological quality achieve low altmetrics when their abstracts are non-structured, low readable, and of poor reporting completeness."
 
 J. Ruano(a,b,∗,&), M. Aguilar-Luque(a,&), B. Isla-Tejera(a,c), P. Alcalde-Mellado(a,d), J. Gay-Mimbrera(a), José Luis Hernandez-Romero(a,b), J.L. Sanz-Cabanillas (a,b), B. Maestre-López(a,d), M. González-Padilla (a,b), P. J. Carmona-Fernández(a), F. Gómez-García(a,b), A. Vélez García-Nieto(a,b).
 
