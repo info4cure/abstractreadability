@@ -1,8 +1,12 @@
 
-These datasets and R scripts were used to performe the analysis related with the publication "Author-paper affiliation network architecture influences the methodological quality of systematic reviews and meta-analyses of psoriasis. PLoS One. 2017 Apr 12;12(4):e0175419.
+These datasets and R scripts were used to performe the analysis related with the manuscript "Systematic reviews of best methodological quality achieve low altmetrics when their abstracts are non-structured, low readable, and of poor reporting completeness."
 
-Juan Luis Sanz-Cabanillas1,2,&, Juan Ruano1,2,&,*, Francisco Gomez-Garcia1,2, Patricia Alcalde Mellado2,3, Jesus Gay-Mimbrera2, Macarena Aguilar-Luque2, Beatriz Maestre-Lopez2,3, Marcelino Gonzalez-Padilla1,2, Pedro J. Carmona-Fernandez1,2, Antonio Velez Garcia-Nieto1,2, Beatriz Isla-Tejera2,4.
+J. Ruano(a,b,∗,&), M. Aguilar-Luque(a,&), B. Isla-Tejera(a,c), P. Alcalde-Mellado(a,d), J. Gay-Mimbrera(a), José Luis Hernandez-Romero(a,b), J.L. Sanz-Cabanillas (a,b), B. Maestre-López(a,d), M. González-Padilla (a,b), P. J. Carmona-Fernández(a), F. Gómez-García(a,b), A. Vélez García-Nieto(a,b).
 
-1 Department of Dermatology, Reina Sofia University Hospital, Cordoba, Spain 2 Instituto Maimonides de Investigacion Biomedica de Cordoba (IMIBIC)/Reina Sofia University Hospital/University of Cordoba, Cordoba, Spain 3 School of Medicine, University of Cordoba, Cordoba, Spain 4 Department of Pharmacy, Reina Sofia University Hospital, Cordoba, Spain
+a IMIBIC/Reina Sofía University Hospital/University of Córdoba, 14004 Córdoba, Spain 
+b Department of Dermatology, Reina Sofía University Hospital, 14004 Córdoba, Spain 
+c Department of Pharmacy, Reina Sofía University Hospital, 14004 Córdoba, Spain 
+d School of Medicine, University of Córdoba, 14004 Córdoba, Spain
 
-&These authors contributed equally to this work. * Corresponding author E-mail: juanruanoruiz@mac.com (JR)
+& These authors contributed equally to this work. 
+* Corresponding author E-mail: juanruanoruiz@mac.com (JR)
